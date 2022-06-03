@@ -4,7 +4,7 @@ import random
 
 f = open("list.txt")
 data = f.read()
-f.close
+f.close 
 
 
 stages = ['''
